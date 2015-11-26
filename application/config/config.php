@@ -14,8 +14,8 @@
 | path to your installation.
 |
 */
-$config['base_url']	= "http://".$_SERVER['SERVER_NAME']."/sisko/sisko_upload/";
-
+#$config['base_url']	= "http://".$_SERVER['SERVER_NAME']."/sisko/sisko_upload/";
+$config['base_url'] = "";
 /*
 |--------------------------------------------------------------------------
 | Index File
